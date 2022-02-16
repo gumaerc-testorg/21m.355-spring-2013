@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-355-musical-improvisation-spring-2013/80ebc9cc61a6f2cd28a533fa6957f5c6_PPDWaZPu7MU.pdf
+file: /media/courses/21m-355-musical-improvisation-spring-2013/80ebc9cc61a6f2cd28a533fa6957f5c6_PPDWaZPu7MU.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 80ebc9cc-61a6-f2cd-28a5-33fa6957f5c6

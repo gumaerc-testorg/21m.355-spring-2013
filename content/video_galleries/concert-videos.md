@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Concert Videos
 uid: f10a271c-1769-208c-4163-94dca3bf7396
 videos:

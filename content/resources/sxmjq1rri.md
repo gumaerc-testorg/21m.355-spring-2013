@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-355-musical-improvisation-spring-2013/ba2160cdb77085870451cfd78051e1f8_SxMjq1RrI.srt
+file: /media/courses/21m-355-musical-improvisation-spring-2013/ba2160cdb77085870451cfd78051e1f8_SxMjq1RrI.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: ba2160cd-b770-8587-0451-cfd78051e1f8
