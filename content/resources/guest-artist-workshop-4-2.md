@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Guest Artist Workshop 4.2. Tim Ray and Greg Hopkins
 uid: 99718776-75c3-c030-e5fb-b5ec4a98e475
 video_files:

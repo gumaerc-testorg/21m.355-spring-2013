@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Concert Series 3: Neil Leonard and Robin Eubanks'
 uid: 6c34a7d0-2425-c072-32cb-f6e49fc17bc0
 video_files:

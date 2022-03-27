@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Guest Artist Workshop 3.2: Electronics student demonstrations'
 uid: 9947049e-6207-7087-21ff-17cc2b1ab194
 video_files:

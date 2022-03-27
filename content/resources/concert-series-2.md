@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Concert Series 2. Natraj with guest Chitravina Ravikiran
 uid: 4f840a3e-87fc-c17f-d445-06f3489d2830
 video_files:

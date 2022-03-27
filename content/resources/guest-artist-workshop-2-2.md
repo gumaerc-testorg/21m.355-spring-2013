@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Guest Artist Workshop 2.2. Indian Classical Music student demonstrations
 uid: 67eab454-a0ec-7fe3-a804-4460fdf1ae4f
 video_files:

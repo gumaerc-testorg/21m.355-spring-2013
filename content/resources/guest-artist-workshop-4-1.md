@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Guest Artist Workshop 4.1. Tim Ray and Eugene Friesen
 uid: 8b69b843-b676-d830-0286-4b23f911d7e8
 video_files:
