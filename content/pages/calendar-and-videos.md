@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar and Videos
 uid: 882f31d7-a2ba-316b-c075-2bfc69ad6cde
 ---

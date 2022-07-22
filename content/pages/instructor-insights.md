@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: f2e2eae3-2705-2f80-1368-cb85922c9c92
 ---
@@ -67,20 +69,6 @@ HASS-A ![](/images/educator/icon-question-hass-a.png)
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![21M.355 was taught in a classroom with flexible seating, a piano, an audio system, and a chalkboard with musical staff.]({{< resource_file 4ca0d9cf-cd82-9b68-29ed-2d109cb9e93f >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    21M.355 was taught in a classroom with flexible seating, a piano, an audio system, and a chalkboard with musical staff.
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
