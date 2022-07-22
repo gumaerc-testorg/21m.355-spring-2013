@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Concert Videos
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** This concert features the group Tre Corda: Tim Ray (piano), Eugene Friesen (cello), and Greg Hopkins (trumpet).
 
 **Instructor:** Tim Ray, Eugene Friesen, and Greg Hopkins
+

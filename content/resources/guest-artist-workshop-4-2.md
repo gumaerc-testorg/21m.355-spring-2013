@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Calendar and Videos
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** Guest artists Tim Ray (piano) and Greg Hopkins (trumpet) talk about their MIT concert from the previous week. Students learn one of Greg's compositions and then experiment with motivic, scale-based, and conversational improvisations.
 
 **Instructors:** Tim Ray, Greg Hopkins
+

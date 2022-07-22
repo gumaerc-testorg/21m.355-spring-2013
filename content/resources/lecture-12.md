@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Calendar and Videos
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** Students demonstrate their Flexology design assignments, in which they create a set of signals and associated thematic material for conducted group improvisation.
 
 **Instructor:** Mark Harvey
+

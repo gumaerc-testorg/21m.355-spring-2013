@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Calendar and Videos
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** Guest artists Tim Ray (piano) and Eugene Friesen (cello), from the trio Tre Corda, demonstrate and discuss their approach: classical training, practicing and performing, the value of limits, curiosity, group roles, and improvising in a diatonic framework.
 
 **Instructors:** Tim Ray, Eugene Friesen
+

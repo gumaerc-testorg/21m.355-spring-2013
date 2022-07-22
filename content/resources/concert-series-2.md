@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Concert Videos
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** This concert features the group Natraj, which blends Indian classical music, West African traditional music, and jazz into their own style; and special guest Chitravina Ravikiran.
 
 **Instructor:** Natraj with Chitravina Ravikiran
+

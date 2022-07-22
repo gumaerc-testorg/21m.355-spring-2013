@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Calendar and Videos
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** Guest artist Neil Leonard describes his motivation for working with electronics, and plays samples of his work. He covers collaboration, site-specific work, audio processing software (SPEAR), found sounds, and sound libraries.
 
 **Instructor:** Neil Leonard
+

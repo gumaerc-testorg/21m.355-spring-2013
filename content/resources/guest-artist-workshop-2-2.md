@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Calendar and Videos
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** This class begins with student demonstrations of Indian classical music frameworks for improvisation, as presented at the prior class. Then they collaborate on devising and trying out several new frameworks.
 
 **Instructors:** Phil Scarff, Mark Harvey
+

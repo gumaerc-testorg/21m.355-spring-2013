@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Concert Videos
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** This concert video includes a opening music improvisation, followed by a short excerpt of the film with improvised music accompaniment.
 
 **Instructor:** Music by Mark Harvey, Peter Bloom, Phil Scarff, Dan Zupan, John Funkhouser, & Jerry Leake; film (excerpt) by Kate Matson
+

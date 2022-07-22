@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Calendar and Videos
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** A workshop on fundamentals of Indian classical music (both Hindustani (northern India) and Carnatic (southern India) traditions) as frameworks for improvising. Topics: range, density, pulse (tala), pitch series (raga), and characteristic phrases (chalan).
 
 **Instructors:** Phil Scarff, Chitravina Ravikiran
+

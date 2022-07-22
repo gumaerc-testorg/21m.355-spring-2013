@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Calendar and Videos
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** This first lab session is about sonic experimentation, improvising free from judgments of right vs. wrong. It begins with structured improvisation exercises incorporating sound and movement, followed by more exercises with graphic notation.
 
 **Instructor:** Tom Hall
+
