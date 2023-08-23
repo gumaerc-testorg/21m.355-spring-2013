@@ -1,14 +1,17 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: f2e2eae3-2705-2f80-1368-cb85922c9c92
+video_metadata:
+  youtube_id: null
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _21M.355 Musical Improvisation_ as it was taught by Dr. Mark Harvey in Spring 2013.
 
@@ -16,14 +19,13 @@ This course exposes students from diverse musical backgrounds to the aesthetics 
 
 The Spring 2013 version featured a special concert series with four prominent guest artists.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Open up students’ ears and imaginations to a range of approaches to improvisation.
-*   Enable students to become better musicians, building skills in performance and improvisational methods.
-*   Develop a deeper awareness of how music works, in terms of structure, emotion, and aesthetic perceptions.
+- Open up students’ ears and imaginations to a range of approaches to improvisation.
+- Enable students to become better musicians, building skills in performance and improvisational methods.
+- Develop a deeper awareness of how music works, in terms of structure, emotion, and aesthetic perceptions.
 
 ### Possibilities for Further Study/Careers
 
@@ -31,8 +33,7 @@ Some students take more music courses in theory, history, ensembles, etc. Others
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "Ensuring that students from a wide variety of backgrounds could work together is…a continuous developmental process, an improvisation of its own." "—Dr. Mark Harvey" >}}
 
@@ -54,13 +55,12 @@ Ensuring that students from a wide variety of backgrounds could work together is
 
 At the midterm point, we held a class round-robin evaluation, to maximize shared insights and sort out any difficulties. That was followed at finals time with individual write-ups of what they liked, what worked well, and suggestions for improvement next time the course is offered.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-*   Intermediate level of performance skill on an instrument, including voice.
-*   Prior experience as an improviser is not necessary, although it is useful.
+- Intermediate level of performance skill on an instrument, including voice.
+- Prior experience as an improviser is not necessary, although it is useful.
 
 ### Requirements Satisfied
 
@@ -72,10 +72,7 @@ Every spring semester
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
-Student Information
--------------------
-
-![21M-355_stat-students.png]({{< resource_file 8dba2c30-460c-cbe2-165e-432d35902ec5 >}})
+## Student Information
 
 ### Enrollment
 
@@ -99,42 +96,38 @@ Twelve students is ideal. That’s large enough to reflect diverse musical backg
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 10 hours on the course, roughly divided as follows:
 
-Lecture and Guest Artist Sessions
----------------------------------
+### Lecture and Guest Artist Sessions
 
-*   2 sessions per week, 1.5 hours per session; 26 sessions total
+- 2 sessions per week, 1.5 hours per session; 26 sessions total
 
 16 sessions taught by Mark Harvey
 
-*   Discussion and demonstration of key concepts
-*   Student performances of design assignments and projects, with class discussion and critique about how things worked, what could be improved, etc.
+- Discussion and demonstration of key concepts
+- Student performances of design assignments and projects, with class discussion and critique about how things worked, what could be improved, etc.
 
 8 sessions with guest artists (2 per guest artist)
 
-*   1st session: introduce and demonstrate their approach; give students an assignment
-*   2nd session: “master class” format with critiqued student demonstrations
+- 1st session: introduce and demonstrate their approach; give students an assignment
+- 2nd session: “master class” format with critiqued student demonstrations
 
-Labs
-----
+### Labs
 
-*   1 session per week, 1 hour per session; 13 sessions total
-*   Taught by Tom Hall
-*   Required attendance
+- 1 session per week, 1 hour per session; 13 sessions total
+- Taught by Tom Hall
+- Required attendance
 
 Goals
 
-*   Increase improvisational proficiency and general musicianship
-*   Complement other private study and ensemble experiences
+- Increase improvisational proficiency and general musicianship
+- Complement other private study and ensemble experiences
 
-Out of Class
-------------
+### Out of Class
 
-*   Complete assigned [readings and listening]({{< baseurl >}}/pages/readings-and-listening).
-*   Attend 6 required concerts and write short reflection papers on each concert.
-*   Prepare [design assignments]({{< baseurl >}}/pages/assignments), leading to short demonstrations in class. Students were challenged to think through a particular approach and devise a framework with which the improvisation will occur.
-*   Prepare the [final project]({{< baseurl >}}/pages/assignments). Students were challenged to demonstrate their integrated understanding and skills based in one or more of the approaches covered in class, and with a more substantial duration than the individual design assignments.
+- Complete assigned {{% resource_link ef7a68a9-47c3-5b1d-4303-e5002959d2d9 "readings and listening" %}}.
+- Attend 6 required concerts and write short reflection papers on each concert.
+- Prepare {{% resource_link 0172cb7a-c07e-ff4e-7510-ae45606353a8 "design assignments" %}}, leading to short demonstrations in class. Students were challenged to think through a particular approach and devise a framework with which the improvisation will occur.
+- Prepare the {{% resource_link 0172cb7a-c07e-ff4e-7510-ae45606353a8 "final project" %}}. Students were challenged to demonstrate their integrated understanding and skills based in one or more of the approaches covered in class, and with a more substantial duration than the individual design assignments.
