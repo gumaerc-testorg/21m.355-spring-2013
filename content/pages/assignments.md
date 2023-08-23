@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides descriptions of the design assignments for the
+  course and videos of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 0172cb7a-c07e-ff4e-7510-ae45606353a8
+video_metadata:
+  youtube_id: null
 ---
 
 In addition to the design assignments below, students were required to write short (1 to 2 page) reflection papers about each required concert.
@@ -88,7 +92,7 @@ You should also consider how it will be performed, i.e. someone playing the melo
 
 {{< tdclose >}}
 {{< tdopen >}}
-See [Lecture 7. "In a Silent Way" student demonstrations]({{< baseurl >}}/resources/lecture-7)
+See {{% resource_link 7679589b-8fdf-af40-bfaa-35403f9d263b "Lecture 7. \"In a Silent Way\" student demonstrations" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +104,7 @@ See [Lecture 7. "In a Silent Way" student demonstrations]({{< baseurl >}}/resour
 Drawing from the elements of improvisation in Indian classical music, as discussed during Phil Scarff and Chitravina Ravikiran's workshop, prepare something using 2 or 3 of those elements to be performed at the second class with Phil.
 {{< tdclose >}}
 {{< tdopen >}}
-See [Guest Artist Workshop 2.2. Indian Classical Music student demonstrations]({{< baseurl >}}/resources/guest-artist-workshop-2-2)
+See {{% resource_link 67eab454-a0ec-7fe3-a804-4460fdf1ae4f "Guest Artist Workshop 2.2. Indian Classical Music student demonstrations" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +116,7 @@ See [Guest Artist Workshop 2.2. Indian Classical Music student demonstrations]({
 Based on Neil Leonard's first class, create small sound libraries to use in a 2-3 minute improvisation. Record source sounds with whatever technologies you have at your disposal. Prepare a performance that integrates some of these sounds for Neil's second class.
 {{< tdclose >}}
 {{< tdopen >}}
-See [Guest Artist Workshop 3.2: Electronics student demonstrations]({{< baseurl >}}/resources/guest-artist-workshop-3)
+See {{% resource_link 9947049e-6207-7087-21ff-17cc2b1ab194 "Guest Artist Workshop 3.2: Electronics student demonstrations" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +128,7 @@ See [Guest Artist Workshop 3.2: Electronics student demonstrations]({{< baseurl 
 Based on our initial discussion of conducted group improvisation in Lecture 11, create a set of your own signals for conducting group improvisation.
 {{< tdclose >}}
 {{< tdopen >}}
-See [Lecture 12. Flexology student demonstrations]({{< baseurl >}}/resources/lecture-12)
+See {{% resource_link 1b8c590c-bde5-1d5c-463c-5e8741981f9d "Lecture 12. Flexology student demonstrations" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

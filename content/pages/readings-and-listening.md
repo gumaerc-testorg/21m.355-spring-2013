@@ -1,16 +1,20 @@
 ---
 content_type: page
+description: This section provides course handouts, a bibliography of reference readings
+  for the course, and details on listening assignments.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings and Listening
 uid: ef7a68a9-47c3-5b1d-4303-e5002959d2d9
+video_metadata:
+  youtube_id: null
 ---
 
 Course Handouts
 ---------------
 
-[Improvisation / Composition: Basic Variables, Melodic and Structural Aspects (PDF)]({{< baseurl >}}/resources/mit21m_355s13_handout)
+{{% resource_link 863e241c-de70-fca0-b860-59fe4d0811b0 "Improvisation / Composition: Basic Variables, Melodic and Structural Aspects (PDF)" %}}
 
 Course Bibliography
 -------------------
@@ -132,13 +136,13 @@ Aardvark Jazz Orchestra. "Flexology." _Trumpet Madness_. Leo Records, 2005.
 
 Morris, Butch. _Conduction #41_. Vol. 10 in _Testament: A Conduction Collection_. New World Records, 1995.
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Liner notes (PDF)](https://nwr-site-liner-notes.s3.amazonaws.com/80487.pdf)
+*   [Liner notes (PDF)](https://nwr-site-liner-notes.s3.amazonaws.com/80487.pdf)
 
 Soundpainting with Walter Thompson: OCW videos from _21M.342 Composing for Jazz Orchestra_
 
-*   [Classroom workshop](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/video-and-audio-classes/lecture-21)
-*   [MIT Festival Jazz Orchestra workshop](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/video-and-audio-classes/event-10)
-*   [Aardvark Jazz Orchestra concert](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/video-and-audio-classes/spring-2009-event)
+*   [Classroom workshop](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/lecture-21)
+*   [MIT Festival Jazz Orchestra workshop](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/event-10)
+*   [Aardvark Jazz Orchestra concert](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/spring-2009-event)
 
 
 {{< tdclose >}}
