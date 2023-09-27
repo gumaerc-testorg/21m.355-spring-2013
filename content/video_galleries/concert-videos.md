@@ -1,10 +1,15 @@
 ---
 content_type: video_gallery
+description: This section provides videos of the four concerts that comprised the
+  Art of the Improvisers concert series, presented at MIT in conjunction with the
+  spring 2013 Musical Improvisation class.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Concert Videos
 uid: f10a271c-1769-208c-4163-94dca3bf7396
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 16e5c4cc-10c4-d359-7734-586e683fd0ff
