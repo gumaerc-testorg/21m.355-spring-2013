@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-355-musical-improvisation-spring-2013/7ba9bb3cf0b9d440fc8309e6d68b0207_Posv6O0845c.srt
+file_size: 79195
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
