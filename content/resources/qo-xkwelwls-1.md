@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-355-musical-improvisation-spring-2013/f1cb2339c87a58b56de92ea2946f49dc_qo-XkWeLWLs.pdf
+file: /ol-ocw-studio-app/courses/21m-355-musical-improvisation-spring-2013/f1cb2339c87a58b56de92ea2946f49dc_qo-XkWeLWLs.pdf
 file_size: 75547
 file_type: application/pdf
 learning_resource_types: []
