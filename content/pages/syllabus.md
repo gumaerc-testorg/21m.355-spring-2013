@@ -46,7 +46,7 @@ In addition to the four concerts in the guest artist series, students are also r
 
 ## Labs
 
-The weekly lab session will be taught by [Tom Hall](http://freeimprovisation.com/), a master improviser and teacher. Attendance is mandatory.
+The weekly lab session will be taught by {{% resource_link "5732f39d-67b4-4947-b2e8-e9eedf6b4d62" "Tom Hall" %}}, a master improviser and teacher. Attendance is mandatory.
 
 Labs are intended to increase improvisational proficiency and general musicianship. However, their main goal is exposure and experience, not necessarily the focused development of individual improvisational skills. These individual skills are better pursued with a private teacher or in the context of the Jazz Combo program at MIT. And yet, students' individual skills will certainly improve by the end of the semester.
 
