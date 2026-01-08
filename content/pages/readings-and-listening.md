@@ -21,9 +21,9 @@ Course Bibliography
 
 Following are reference readings for the course.
 
-Berkowitz, Aaron. _The Improvisational Mind: Cognition and Creativity in the Musical Moment_. Oxford University Press, 2010. ISBN: 9780199590957. \[Preview with {{% resource_link "48a7b2a2-9b1c-4979-a5ca-5fde738cb4c9" "Google Books" %}}\]
+Berkowitz, Aaron. _The Improvisational Mind: Cognition and Creativity in the Musical Moment_. Oxford University Press, 2010. ISBN: 9780199590957. \[Preview with [Google Books](http://books.google.com/books?id=jtrB8ptcsDQC&pg=PAfrontcover)\]
 
-Berliner, Paul. _Thinking in Jazz: The Infinite Art of Improvisation_. University of Chicago Press, 1994. ISBN: 9780226043814. \[Preview with {{% resource_link "b8f70932-4802-4859-82c3-0caea6fac7a7" "Google Books" %}}\]
+Berliner, Paul. _Thinking in Jazz: The Infinite Art of Improvisation_. University of Chicago Press, 1994. ISBN: 9780226043814. \[Preview with [Google Books](http://books.google.com/books?id=tqPnM_e4CPYC&pg=PAfrontcover)\]
 
 Budds, Michael J. _Jazz in the Sixties: The Expansion of Musical Resources and Techniques_. 2nd ed. University of Iowa Press, 1990. ISBN: 9780877452812.
 
@@ -33,11 +33,11 @@ Cogswell, Michael. "Melodic Organization in Two Solos by Ornette Coleman." In _A
 
 Gann, Kyle. _American Music in the Twentieth Century_. Cengage Learning, 1997. ISBN: 9780028646558.
 
-———. _Music Downtown: Writings for The Village Voice_. University of California Press, 2006. ISBN: 9780520229822. \[Preview with {{% resource_link "9ec16342-0945-4fb5-9d93-6009b96929de" "Google Books" %}}\]
+———. _Music Downtown: Writings for The Village Voice_. University of California Press, 2006. ISBN: 9780520229822. \[Preview with [Google Books](http://books.google.com/books?id=6Tk8AUmr6vIC&pg=PAfrontcover)\]
 
 Haywood, Mark S. "The Harmonic Role of Melody in Vertical and Horizontal Jazz." In _Annual Review of Jazz Studies, Vol. 5_. Scarecrow Press, 1991. ISBN: 9780810824782.
 
-Higgins, Lee, and Patricia Campbell. _Free To Be Musical: Group Improvisation in Music_. Rowman & Littlefield Educational, 2010. ISBN: 9781607094982. \[Preview with {{% resource_link "5b869dbe-82a1-4815-930b-5ac8b3e3a7a5" "Google Books" %}}\]
+Higgins, Lee, and Patricia Campbell. _Free To Be Musical: Group Improvisation in Music_. Rowman & Littlefield Educational, 2010. ISBN: 9781607094982. \[Preview with [Google Books](http://books.google.com/books?id=TGYN-kI_DMoC&pg=PAfrontcover)\]
 
 Jost, Ekkehard. _Free Jazz (The Roots of Jazz)_. Da Capo Press, 1981. ISBN: 9780306761409.
 
@@ -49,9 +49,9 @@ Litweiler, John. _The Freedom Principle: Jazz after 1958_. Da Capo Press, 1990. 
 
 Miller, Ron. _Modal Jazz Composition and Harmony, Vol. 1_. Advance Music, 2000.
 
-Monson, Ingrid. _Saying Something: Jazz Improvisation and Interaction_. University of Chicago Press, 1997. ISBN: 9780226534787. \[Preview with {{% resource_link "1e7386ab-4c27-4a83-b8c8-75bea2d15c0f" "Google Books" %}}\]
+Monson, Ingrid. _Saying Something: Jazz Improvisation and Interaction_. University of Chicago Press, 1997. ISBN: 9780226534787. \[Preview with [Google Books](http://books.google.com/books?id=1nCBzMvZ_FMC&pg=PAfrontcover)\]
 
-Nettl, Bruno, and Melinda Russell, eds. _In The Course of Performance: Studies in the World of Musical Improvisation_. University of Chicago Press, 1998. ISBN: 9780226574110. \[Preview with {{% resource_link "febbdb98-518a-472c-ab81-026ec9b9dbdd" "Google Books" %}}\]
+Nettl, Bruno, and Melinda Russell, eds. _In The Course of Performance: Studies in the World of Musical Improvisation_. University of Chicago Press, 1998. ISBN: 9780226574110. \[Preview with [Google Books](http://books.google.com/books?id=74IIU85CKmAC&pg=PAfrontcover)\]
 
 Nisenson, Eric. _The Making of Kind of Blue: Miles Davis and his Masterpiece_. St. Martin's Press, 2000. ISBN: 9780312266172.
 
@@ -136,7 +136,7 @@ Aardvark Jazz Orchestra. "Flexology." _Trumpet Madness_. Leo Records, 2005.
 
 Morris, Butch. _Conduction #41_. Vol. 10 in _Testament: A Conduction Collection_. New World Records, 1995.
 
-*   {{% resource_link "7a3e0007-126c-4842-bfbe-6a676267d4a1" "Liner notes (PDF)" %}}
+*   [Liner notes (PDF)](https://nwr-site-liner-notes.s3.amazonaws.com/80487.pdf)
 
 Soundpainting with Walter Thompson: OCW videos from _21M.342 Composing for Jazz Orchestra_
 
